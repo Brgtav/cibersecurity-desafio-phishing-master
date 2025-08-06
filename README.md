@@ -77,11 +77,12 @@
         Exemplo: se você clonar um site, precisa informar o IP da sua máquina para que a vítima acesse.
 
 
-- URL para clone: http://www.facebook.com
+- URL para clone:facebook
 
 ### Resutados
 
 ![Alt text](./passwd.png "Optional title")
+
 # cibersecurity-desafio-phishing-master
 Acesso root com sudo su para permissões administrativas.
 Início do SEToolkit com setoolkit.
